@@ -1,1 +1,1 @@
-# odin-recipes
+This project requires an html recipes website to practice# odin-recipes
